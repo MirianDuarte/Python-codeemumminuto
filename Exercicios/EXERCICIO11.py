@@ -1,0 +1,7 @@
+#FAÇA UM PROGRAMA QUE IMPRIMA TODOS OS NÚMEROS ENTRE
+# 100 E 1000 UTILIZANDO O WHILE
+
+i = 101
+while(i < 1000):
+    print(i)
+    i+=1

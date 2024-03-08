@@ -1,0 +1,9 @@
+#FAÇA UM PROGRAMA QUE RECEBA UM NÚMERO INTEIRO X DIGITADO PELO USUÁRIO
+#E IMPRIMA TODOS OS NÚMEROS DE X A 0
+#UTILIZANDO O LAÇO DE REPETIÇÃO WHILE
+
+X = int(input("Digite um número:"))
+
+while (X >= 0):
+    print(X)
+    X -= 1
